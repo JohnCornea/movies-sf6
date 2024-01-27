@@ -3,4 +3,4 @@
 Symfony 6 app 
 - Crud functionality
 - Register/login system
-- Tailwind used for the CSS part
+- Tailwind used for the styling
